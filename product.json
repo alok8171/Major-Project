@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Pav-Bhaji",
+        "price": 120,
+        "image": "Pav-bhaji.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Gol-Gappe(6 pcs)",
+        "price": 50,
+        "image": "gol-gappe.webp"
+    },
+    {
+        "id": 3,
+        "name": "Chilli-Paneer",
+        "price": 150,
+        "image": "chilli-paneer.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Noodels",
+        "price": 120,
+        "image": "noodles.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Momos",
+        "price": 120,
+        "image": "momo.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Chocolate-Milkshake",
+        "price": 80,
+        "image": "milkshake.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Masala-Dosa",
+        "price": 140,
+        "image": "Plain-Dosa.webp"
+    },
+    {
+        "id": 9,
+        "name": "Chole Bhature",
+        "price": 120,
+        "image": "chole-bhature.jpg"
+    }
+    
+]
